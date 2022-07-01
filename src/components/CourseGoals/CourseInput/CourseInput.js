@@ -14,6 +14,7 @@ const FormControl = styled.div`
 }
 
 & input {
+  margin-bottom: 0.5rem;
   display: block;
   width: 100%;
   border: 1px solid #ccc;
